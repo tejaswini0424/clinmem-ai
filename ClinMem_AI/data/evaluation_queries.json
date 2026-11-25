@@ -1,0 +1,6 @@
+[
+ {"query":"diabetes glucose intervention alpha","sources":["Synthetic diabetes scenario A","Synthetic diabetes scenario B"]},
+ {"query":"hypertension blood pressure","sources":["Synthetic hypertension glossary"]},
+ {"query":"cardiovascular randomized trial","sources":["Synthetic cardiovascular research"]},
+ {"query":"metformin insulin medication","sources":["Synthetic medication glossary"]}
+]

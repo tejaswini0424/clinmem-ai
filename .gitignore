@@ -1,0 +1,10 @@
+ClinMem_AI/reports/*
+!ClinMem_AI/reports/.gitkeep
+ClinMem_AI/scripts/verify_vercel_access.cjs
+ClinMem_AI/scripts/verify_project_repairs.cjs
+**/.env
+**/.env.*
+!**/.env.example
+**/*.db
+**/*.db-*
+**/node_modules/

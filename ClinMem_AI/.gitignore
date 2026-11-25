@@ -1,0 +1,16 @@
+__pycache__/
+.pytest_cache/
+.pytest_tmp/
+.pytest_cloud_tmp/
+.pytest_vercel_tmp/
+.pytest_public_tmp/
+.pytest_public_fast_tmp/
+.pycache-verify/
+*.db
+.env
+.venv/
+.vercel/
+.vercel-deploy/
+.env.*.local
+uploads/*
+!uploads/.gitkeep

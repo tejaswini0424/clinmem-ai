@@ -1,0 +1,1 @@
+SYNTHETIC DEMONSTRATION ONLY. Diabetes scenario C records a fictional glucose observation. This is not verified clinical guidance.

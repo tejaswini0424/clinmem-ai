@@ -1,0 +1,1 @@
+SYNTHETIC DEMONSTRATION ONLY. Diabetes scenario C has an updated fictional glucose observation with uncertain reliability. A reviewer must explicitly decide whether this supersedes earlier evidence.

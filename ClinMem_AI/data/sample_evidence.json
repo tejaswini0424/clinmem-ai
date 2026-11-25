@@ -1,0 +1,7 @@
+[
+ {"content":"SYNTHETIC DEMO: Diabetes research scenario A reports that intervention alpha improves glucose measurements. This fictional observation is not clinical guidance.","source":"Synthetic diabetes scenario A","quality":"Unknown","memory_type":"Long-Term"},
+ {"content":"SYNTHETIC DEMO: Diabetes research scenario B reports that intervention alpha does not improve glucose measurements. This fictional conflicting observation needs review.","source":"Synthetic diabetes scenario B","quality":"Unknown","memory_type":"Long-Term"},
+ {"content":"SYNTHETIC DEMO: Hypertension scenario uses blood pressure as a recorded clinical measure. No treatment inference is intended.","source":"Synthetic hypertension glossary","quality":"Unknown","memory_type":"Semantic"},
+ {"content":"SYNTHETIC DEMO: Cardiovascular research scenario records a fictional randomized trial with uncertain findings.","source":"Synthetic cardiovascular research","quality":"Unknown","memory_type":"Long-Term"},
+ {"content":"SYNTHETIC DEMO: Metformin and insulin are medication terms in this fictional diabetes vocabulary exercise. No dose or recommendation is provided.","source":"Synthetic medication glossary","quality":"Unknown","memory_type":"Semantic"}
+]
